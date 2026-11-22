@@ -1,22 +1,9 @@
 # Payday
 
-Payday countdown, bills calendar and how much is left
+> **Merged into [PocketLeft](https://github.com/tadagambura/pocketleft).**
 
-## Status
+Payday (payday countdown, bills calendar, leftover cash) overlapped almost entirely with
+PocketLeft ("what can I safely spend before payday?") and with Perplexity's "Payday Plan".
+All three ideas now live in one stronger app: **PocketLeft**.
 
-Planning. #10 of 15 in the portfolio build order (easy). See [`docs/SPEC.md`](docs/SPEC.md).
-
-## How it makes money
-
-- **Free:** Countdown + bills, with ads
-- **Paid:** £2.99/month: forecasting + multiple incomes
-- **Ads:** Light
-
-## Run locally
-
-_Added once the app is scaffolded._
-
----
-
-Part of the App Portfolio. Marketing runs through the shared
-[growth-engine](https://github.com/tadagambura/growth-engine).
+This repo is kept for history and is no longer developed.
