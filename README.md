@@ -4,11 +4,13 @@ Payday countdown, bills calendar and how much is left
 
 ## Status
 
-Planning. See [`docs/SPEC.md`](docs/SPEC.md).
+Planning. #10 of 15 in the portfolio build order (easy). See [`docs/SPEC.md`](docs/SPEC.md).
 
 ## How it makes money
 
-_TBD, see SPEC._
+- **Free:** Countdown + bills, with ads
+- **Paid:** £2.99/month: forecasting + multiple incomes
+- **Ads:** Light
 
 ## Run locally
 
