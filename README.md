@@ -1,6 +1,6 @@
 # Payday
 
-> **Merged into [PocketLeft](https://github.com/tadagambura/pocketleft).**
+> **Merged into [StackUp](https://github.com/tadagambura/stackup) (via PocketLeft).**
 
 Payday (payday countdown, bills calendar, leftover cash) overlapped almost entirely with
 PocketLeft ("what can I safely spend before payday?") and with Perplexity's "Payday Plan".
